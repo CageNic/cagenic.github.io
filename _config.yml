@@ -20,7 +20,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /images/arnie.png
+title-img: /images/arnie.png
 
 
 # --- Footer social media links --- #
@@ -31,7 +31,7 @@ social-network-links:
   email: "someone@example.com"
  # facebook: deanattali
  # github: daattali
-  twitter: daattali
+ # twitter: daattali
  # patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
