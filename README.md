@@ -1,4 +1,3 @@
-## Hi there
 ### Connect with me:  
 blah blah blah blah  
 blah blah blah blah  
