@@ -1,5 +1,5 @@
 # Welcome to our github homepage
-No fancy plugins - just markdown from the README.md file
+No fancy plugins - just markdown from the README.md file  
 And image files in /images sub folder
 
 ![Team Logo](/images/Homer_Simpson.png)
@@ -22,7 +22,8 @@ We work openly to share our approach, methods and areas of research.
 We use open source tools; and opt for what we consider to be the correct tool for the correct task
 
 ## Data sources and data management
-We use open source data which we can share. Where we use sensitive data, we can describe it, but cannot comment on the exact contents and reference the names of any files used
+We use open source data which we can share  
+Where we use sensitive data, we can describe it, but cannot comment on the exact contents and reference the names of any files used
 
 For further information, please contact us
 
