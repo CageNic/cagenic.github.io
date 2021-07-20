@@ -17,7 +17,7 @@ Our team consists of...
 
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
-**Collaborators and former members**  
+**Collaborators**  
 
 * Bart Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/thesimpsons)
 
