@@ -3,7 +3,7 @@
 ![Team Logo](/images/Homer_Simpson.png)
 
 ## Team members and collaborators
-Projects are completed by members of the lab, often with collaborators.  
+Our team consists of...  
 
 **Members of the team**  
 
@@ -14,12 +14,13 @@ Projects are completed by members of the lab, often with collaborators.
 * Mr Blonde - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/profile)
 
 ## Approach to working openly  
-Text goes her  
+We work openly to share our approach, methods and areas of research.
+We use open source tools; and opt for what we consider to be the correct tool for the correct task
 
 ## Data sources and data management
-Text goes here  
+We use open source data which we can share. Where we use sensitive data, we can describe it, but cannot comment on the exact contents and reference the names of any files used
 
-More text
+For further information, please contact us
 
 ## Publications
 Some publication text
