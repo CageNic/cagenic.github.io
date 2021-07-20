@@ -1,5 +1,5 @@
 # Welcome to our github homepage
-No fancy plugins used to create the homepage - just markdown from the README.md file  
+No fancy plugins used to create the homepage - just markdown and html from the README.md file  
 And image files in /images sub folder
 
 <img align="right" width="400" height="400" src="/images/Homer_Simpson.png">
