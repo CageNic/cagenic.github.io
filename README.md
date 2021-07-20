@@ -2,7 +2,7 @@
 No fancy plugins - just markdown from the README.md file  
 And image files in /images sub folder
 
-<img align="left" width="100" height="100" src="/images/Homer_Simpson.png">
+<img align="left" width="200" height="200" src="/images/Homer_Simpson.png">
 
 <!-- comments out the code -->
 
