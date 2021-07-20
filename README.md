@@ -15,11 +15,11 @@ Our team consists of...
 
 **Members of the team**  
 
-* Mr Pink - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/profile)
+* Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
 **Collaborators and former members**  
 
-* Mr Blonde - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/profile)
+* Bart Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/profile)
 
 ## Approach to working openly  
 We work openly to share our approach, methods and areas of research.
