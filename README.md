@@ -27,7 +27,7 @@ We use open source tools; and opt for what we consider to be the correct tool fo
 
 ## Data sources and data management
 We use open source data which we can share  
-Where we use sensitive data, we can describe it, but cannot comment on the exact contents and reference the names of any files used
+Where we use sensitive data, we can describe it, but cannot comment on the exact contents or reference the names of any files used
 
 For further information, please contact us
 
