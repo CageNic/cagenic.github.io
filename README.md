@@ -19,7 +19,7 @@ Our team consists of...
 
 **Collaborators and former members**  
 
-* Bart Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/profile)
+* Bart Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/thesimpsons)
 
 ## Approach to working openly  
 We work openly to share our approach, methods and areas of research.
