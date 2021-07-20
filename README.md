@@ -2,6 +2,8 @@
 
 ![Team Logo](/images/Homer_Simpson.png)
 
+### You will find our repositories here (https://github.com)
+
 ## Team members and collaborators
 Our team consists of...  
 
