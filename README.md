@@ -1,4 +1,6 @@
 # Welcome to our github homepage
+No fancy plugins - just markdown from the README.md file
+And image files in /images sub folder
 
 ![Team Logo](/images/Homer_Simpson.png)
 
