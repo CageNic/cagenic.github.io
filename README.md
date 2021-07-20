@@ -1,4 +1,4 @@
-# Welcome to our github homepage
+# Welcome to REALs test github homepage
 No fancy plugins used to create the homepage - just markdown and html from the README.md file  
 And image files in /images sub folder
 
