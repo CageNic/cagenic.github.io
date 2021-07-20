@@ -2,10 +2,10 @@
 No fancy plugins - just markdown from the README.md file  
 And image files in /images sub folder
 
-<img align="left" width="200" height="200" src="/images/Homer_Simpson.png">
+<img align="left" width="300" height="200" src="/images/Homer_Simpson.png">
 
 <!-- comments out the code -->
-
+<!-- the below code places the image using default markdown settings
 <!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
 #### You will find our repositories [here](https://github.com/cwmaCampbell?tab=repositories)
