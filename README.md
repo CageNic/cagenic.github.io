@@ -1,4 +1,4 @@
-# Welcome to REALs test github homepage
+# Welcome to our github homepage
 No fancy plugins used to create the homepage - just markdown and html from the README.md file  
 And image files in /images sub folder
 
@@ -32,9 +32,5 @@ Where we use sensitive data, we can describe it, but cannot comment on the exact
 For further information, please contact us
 
 ## Publications
-Some publication text
 
 ## Contact us
-Contact us
-
-Some text with contact details
