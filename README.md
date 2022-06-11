@@ -8,7 +8,7 @@ And image files in /images sub folder
 <!-- the below code places the image using default markdown settings
 <!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
-#### You will find our repositories [here](https://github.com/centrereal?tab=repositories)
+#### You will find our repositories [here](https://github.com/cagenic?tab=repositories)
 
 ## Team members and collaborators
 Our team consists of...  
