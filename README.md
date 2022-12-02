@@ -1,4 +1,4 @@
-# Welcome to our github homepage
+# Welcome to my github homepage
 No fancy plugins used to create the homepage - just markdown and html from the README.md file  
 And image files in /images sub folder
 
@@ -8,10 +8,11 @@ And image files in /images sub folder
 <!-- the below code places the image using default markdown settings
 <!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
-#### You will find our repositories [here](https://github.com/cagenic?tab=repositories)
+#### You will find my repositories [here](https://github.com/cagenic?tab=repositories)
 
 ## Team members and collaborators
-Our team consists of...  
+Our team consists of... 
+* Just Me
 
 **Members of the team**  
 
