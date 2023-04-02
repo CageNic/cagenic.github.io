@@ -1,6 +1,1 @@
-# theme: jekyll-theme-minimal
-title: Cutural Rambings
-description: Much ablog about nothing
-logo: /images/unamed.jpg
-#show_downloads: true
 permalink: /blog/:year/:month/:day/:title
