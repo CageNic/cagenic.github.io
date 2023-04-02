@@ -14,11 +14,3 @@ No fancy plugins used to create the homepage - just markdown and html from the R
 **Members of the team**  
 
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
-
-## Approach to working openly  
-We work openly to share our approach, methods and areas of research.
-We use open source tools; and opt for what we consider to be the correct tool for the correct task
-
-## Publications
-
-## Contact us
