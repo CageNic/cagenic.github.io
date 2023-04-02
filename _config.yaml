@@ -1,7 +1,7 @@
 #theme: jekyll-theme-minimal
-#title: Our GitHub home page
-#description: Blogs and Repos
+title: Our GitHub home page
+description: Blogs and Repos
 #Github: https://github.com/codealba
-#logo: /images/MicrosoftTeams-image.png
+logo: /images/MicrosoftTeams-image.png
 #show_downloads: true
 permalink: /blog/:year/:month/:day/:title
