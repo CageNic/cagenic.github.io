@@ -1,7 +1,8 @@
 ---
 title:  "this is a test"
 layout: post
-categories: history
+author: "Cultural Rambler"
+tag: history
 ---
 
 this is a test post
