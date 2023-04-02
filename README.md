@@ -9,6 +9,7 @@ And image files in /images sub folder
 <!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
 #### You will find my repositories [here](https://github.com/cagenic?tab=repositories)
+#### You will find my blogs [here](https://cagenic.github.io/blog)
 
 ## Team members and collaborators
 Our team consists of... 
