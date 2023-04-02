@@ -1,5 +1,5 @@
 # Much ablog about nothing
-## Cultural ramblings from a man o' yore
+## Cultural ramblings fae a man o' yore
 
 The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file  
 A wee bit o' Jekyll for the posts
