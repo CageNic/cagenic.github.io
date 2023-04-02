@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
-title: Our GitHub home page
-description: Blogs and Repos
-#Github: https://github.com/codealba
+title: Cutural Rambings
+description: Much ablog about nothing
 logo: /images/unamed.jpg
 #show_downloads: true
 permalink: /blog/:year/:month/:day/:title
