@@ -7,7 +7,7 @@ A collection of writings...
 <!-- the below code places the image using default markdown settings
 <!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
-<img align="right" width="400" height="400" src="/images/Homer_Simpson.png">
+<--- <img align="right" width="400" height="400" src="/images/Homer_Simpson.png"> --->
 
 <img align="right" width="400" height="400" src="/images/excellent.jpg">
 
