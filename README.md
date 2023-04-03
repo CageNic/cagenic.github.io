@@ -1,8 +1,7 @@
 # Much ablog about nothing
 ## Cultural ramblings fae a man o' yore
 
-The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file  
-A wee bit o' Jekyll for the posts
+A collection of writings... 
 
 <!-- comments out the code -->
 <!-- the below code places the image using default markdown settings
@@ -16,3 +15,7 @@ A wee bit o' Jekyll for the posts
 **Members of the team**  
 
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
+
+#### Note
+The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file  
+A wee bit o' Jekyll tae render the posts more aesthetically pleasing
