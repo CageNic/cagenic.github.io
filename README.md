@@ -9,8 +9,8 @@ A collection of writings...
 
 <img align="right" width="400" height="400" src="/images/Homer_Simpson.png">
 
-### You will find my blogs [here](https://cagenic.github.io/blog)
-#### You will find my repositories [here](https://github.com/cagenic?tab=repositories)
+## You can find my blogs [here](https://cagenic.github.io/blog)
+#### You can find my repositories [here](https://github.com/cagenic?tab=repositories)
 
 **Members of the team**  
 
