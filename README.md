@@ -18,5 +18,5 @@ A collection of writings...
 
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
-#### Note
+<font size = 2> Note<br></font>
 <font size = "1"> The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file<br>A wee bit o' Jekyll tae render the posts more aesthetically pleasing </font>
