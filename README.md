@@ -8,6 +8,7 @@ A collection of writings...
 <!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
 <img align="right" width="400" height="400" src="/images/Homer_Simpson.png">
+<img align="left" width="150" height="150" src="/images/Homer_Simpson.png">
 
 ## You can find my blogs [here](https://cagenic.github.io/blog)
 #### You can find my repositories [here](https://github.com/cagenic?tab=repositories)
