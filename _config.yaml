@@ -9,7 +9,7 @@ permalink: /blog/:year/:month/:day/:title
 
 jekyll-archives:
   enabled: []
-  layout: archive
+  layout: archive  # _layouts/archive.html
   permalinks:
     year: '/:year/'
     month: '/:year/:month/'
