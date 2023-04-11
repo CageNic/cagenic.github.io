@@ -1,11 +1,3 @@
 permalink: /blog/:year/:month/:day/:title
 
 <!-- adding stuff below to get an archiving system working for the blog entries -->
-
-# Archives
-collections:
-  archives:
-    output: true
-    permalink: /archives/:path/
-    
-
