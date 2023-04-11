@@ -1,5 +1,4 @@
-permalink: /blog/:year/:month/:day/:title,
-           /archive/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
 
 
 <!-- adding stuff below to get an archiving system working for the blog entries -->
