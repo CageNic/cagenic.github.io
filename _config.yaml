@@ -4,15 +4,3 @@ permalink: /blog/:year/:month/:day/:title
 <!-- The minima theme, which has the most starter content, if you left theme: minima as is -->
 <!-- A mostly blank page with a title placeholder if you deleted the line theme: minima -->
 <!-- A completely blank page, if you set theme: null explicitly like I recommended -->
-
-<!-- jekyll archives plugin -->
-
-jekyll-archives:
-  enabled: []
-  layout: archive  # _layouts/archive.html
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
