@@ -1,5 +1,5 @@
 permalink: /blog/:year/:month/:day/:title
-
+theme:null
 
 <!-- adding stuff below to get an archiving system working for the blog entries -->
 <!-- The minima theme, which has the most starter content, if you left theme: minima as is -->
