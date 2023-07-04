@@ -13,9 +13,9 @@
 </ul>
 <font size = 2> Note</font><br>
 <font size = "1"> The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file<br>A wee bit o&#39; Jekyll tae render the posts more aesthetically pleasing </font>
-<font size = "2"> Recent Posts</font><br>
+<br><font size = "2"> Recent Posts</font><br>
 <div class="blog-index">  
-<!--  {% assign post = site.posts.first %} -->
+  {% assign post = site.posts.first %}
   {% assign content = post.content %}
   {% include post_detail.html %}
 </div>
