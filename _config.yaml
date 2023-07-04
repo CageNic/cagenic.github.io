@@ -1,6 +1,1 @@
 permalink: /blog/:year/:month/:day/:title
-theme: minima
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md"}
-  - {file: "archive.html"}
