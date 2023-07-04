@@ -18,15 +18,5 @@ A collection of writings...
 
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
-{% for post in site.posts %}
-  <article>
-    <h4>
-        <a href="{{ site.url }}{{ post.url }}">
-            {{ post.title }}
-        </a>
-    </h4>
-  </article>
-{% endfor %}
-
 <font size = 2> Note<br></font>
 <font size = "1"> The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file<br>A wee bit o' Jekyll tae render the posts more aesthetically pleasing </font>
