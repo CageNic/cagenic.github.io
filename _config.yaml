@@ -1,3 +1,5 @@
 theme: null
 permalink: /blog/:year/:month/:day/:title
 paginate: 4
+url: ""
+baseurl: ""
