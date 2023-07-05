@@ -1,4 +1,4 @@
-# Much ablog about nothing
+
 ## Cultural ramblings fae a man o' yore
 
 A collection of writings... 
