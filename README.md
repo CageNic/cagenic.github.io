@@ -20,3 +20,17 @@ A collection of writings...
 
 <font size = 2> Note<br></font>
 <font size = "1"> The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file<br>A wee bit o' Jekyll tae render the posts more aesthetically pleasing </font>
+
+---
+layout: default
+---
+<div class="home">
+  <h1 class="page-heading">Posts</h1>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <a class="post-link" href="{ { post.url | prepend: site.baseurl }}"></a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
