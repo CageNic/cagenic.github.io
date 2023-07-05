@@ -5,3 +5,5 @@ header_pages:
 
   plugins:
   - jekyll-sitemap
+  
+theme: minima
