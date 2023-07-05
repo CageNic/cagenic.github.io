@@ -2,3 +2,9 @@ permalink: /blog/:year/:month/:day/:title
 navigation:
 -title: Home
 -url: README.md
+
+header_pages:
+  - resume.html
+  - archive.html
+  - books.md
+  - bookmarks.md
