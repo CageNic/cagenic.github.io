@@ -1,8 +1,2 @@
 permalink: /blog/:year/:month/:day/:title
-
-header_pages:
-  - resume.html
-
-  plugins:
-  - jekyll-sitemap
 theme: minima
