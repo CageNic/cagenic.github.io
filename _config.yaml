@@ -1,2 +1,2 @@
 permalink: /blog/:year/:month/:day/:title
-theme: beautiful-jekyll
+theme: minimal-mistakes
