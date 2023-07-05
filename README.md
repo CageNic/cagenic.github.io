@@ -11,12 +11,12 @@ A collection of writings...
 
 <img align="right" width="400" height="400" src="/images/excellent.jpg">
 
-## You can find my blogs [here](https://cagenic.github.io/blog)
-#### You can find my repositories [here](https://github.com/cagenic?tab=repositories)
+### You can find my blogs [here](https://cagenic.github.io/blog)
+### You can find my repositories [here](https://github.com/cagenic?tab=repositories)
 
 **Members of the team**  
 
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
 <font size = 2> Note<br></font>
-<font size = "1"> The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file<br>A wee bit o' Jekyll tae render the posts more aesthetically pleasing </font>
+<font size = "2"> The techy stuff on how this blog was built: No fancy plugins used to create the homepage - just markdown and html from the README.md file<br>A wee bit o' Jekyll tae render the posts more aesthetically pleasing </font>
