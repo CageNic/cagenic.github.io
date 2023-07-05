@@ -6,15 +6,6 @@ layout: default
 
   {{ content }}
 
-  <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.permalink }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
-
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
     <ul class="post-list">
@@ -28,9 +19,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
