@@ -9,7 +9,6 @@ layout: default
     <ul class="post-list">
       {%- assign post_limit = site.home_post_limit | default: 2 -%}
       {%- for post in site.posts limit:post_limit -%}
-      	    <p>{{ post.excerpt }}</p>
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -18,8 +17,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+      	    <p>{{ post.excerpt }}</p>
         {%- endif -%}
       </li>
       {%- endfor -%}
