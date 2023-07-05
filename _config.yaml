@@ -8,3 +8,6 @@ header_pages:
   - archive.html
   - books.md
   - bookmarks.md
+
+  plugins:
+  - jekyll-sitemap
