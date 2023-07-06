@@ -1,9 +1,5 @@
----
-title: Much Ablog About Nothing
-author: Cultural ramblings fae a wer o' yore
----
-
-## Cultural ramblings fae a man o' yore  
+# Much Ablog About Nothing
+## Cultural ramblings fae a wer o' yore
 
 A collection of writings... 
 
