@@ -1,4 +1,10 @@
-## Cultural ramblings fae a man o' yore
+---
+layout: page
+title: Much Ablog About Nothing
+author: Cultural ramblings fae a wer o' yore
+---
+
+## Cultural ramblings fae a man o' yore  
 
 A collection of writings... 
 
