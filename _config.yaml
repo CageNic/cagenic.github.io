@@ -1,5 +1,5 @@
 permalink: /blog/:year/:month/:day/:title
 # theme: jekyll-theme-midnight
-theme: jekyll-theme-terminal
+theme: jekyll-theme-hacker
 # theme: minima
 # https://rubygems.org/search?query=jekyll-theme
