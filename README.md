@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Much Ablog About Nothing
 author: Cultural ramblings fae a wer o' yore
 ---
