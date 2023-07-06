@@ -1,6 +1,5 @@
 permalink: /blog/:year/:month/:day/:title
-<!-- theme: jekyll-theme-midnight -->
+<!--theme: jekyll-theme-midnight-->
 theme: jekyll-theme-terminal
-<!-- theme: minima -->
-
-<!-- https://rubygems.org/search?query=jekyll-theme -->
+<!--theme: minima-->
+<!--https://rubygems.org/search?query=jekyll-theme-->
