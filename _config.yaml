@@ -3,4 +3,9 @@ excerpt_separator:
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-hacker
 theme: minima
+
+title: Big Man
+description: grrrr
+logo: https://media-exp1.licdn.com/dms/image/C5603AQEjpWRtfGTu9Q/profile-displayphoto-shrink_800_800/0/1593112650172?e=1626307200&v=beta&t=_8iQKxnbGrZ3UbyAC1tOFfIV193I99dadgJh3pVN9DA
+show_downloads: false
 # https://rubygems.org/search?query=jekyll-theme
