@@ -1,5 +1,5 @@
 # Much Ablog About Nothing
-## Cultural ramblings fae a wer o' yore
+### Cultural ramblings fae a wer o' yore
 
 A collection of writings... 
 
