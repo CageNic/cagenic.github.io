@@ -2,8 +2,9 @@
 <head>
 <style>
 body {
-background-color: gray;
+background-color: white;
 }
+<img align="right" width="400" height="400" src="/images/excellent.jpg">
 </style>
 </head>
 </body>
@@ -21,8 +22,6 @@ A collection of writings...
 <!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
 <!-- <img align="right" width="400" height="400" src="/images/Homer_Simpson.png"> --->
-
-<img align="right" width="400" height="400" src="/images/excellent.jpg">
 
 ### You can find my blogs [here](https://cagenic.github.io/blog)
 ### You can find my GitHub repositories [here](https://github.com/cagenic?tab=repositories)
