@@ -4,7 +4,7 @@ background-color: white;
 }
 p {
   color: black;
-  text-align: right;
+  text-align: left;
 }
 </style>
 
