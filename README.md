@@ -2,7 +2,12 @@
 body {
 background-color: white;
 }
+p {
+  color: black;
+  text-align: right;
+}
 </style>
+
 # Much Ablog About Nothing
 ### Cultural ramblings fae a wer o' yore
 
