@@ -1,19 +1,19 @@
-<style>
-body {
-background-color: white;
-}
-p {
-  color: black;
-  text-align: left;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
 
-# Much Ablog About Nothing
-### Cultural ramblings fae a wer o' yore
-
+<h1>Much Ablog About Nothing</h1>
+<h2></h2>Cultural ramblings fae a wer o' yore</>
+<p>A collection of writings... </p>
 <img align="right" width="400" height="400" src="/images/excellent.jpg">
+<font size = 2> Note<br></font>
+<font size = "2"> The techy stuff of blog architecture. The homepage is a README.md, some layout.html and index.html... and that's it<br>Declaring Jekyll minima tae render the site suitable for the markdown and html in the yaml config file</font>
+</body>
+</html>
 
-A collection of writings... 
 ### You can find my blogs [here](https://cagenic.github.io/blog)
 ### You can find my GitHub repositories [here](https://github.com/cagenic?tab=repositories)
 
@@ -21,8 +21,6 @@ A collection of writings...
 
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
-<font size = 2> Note<br></font>
-<font size = "2"> The techy stuff of blog architecture. The homepage is a README.md, some layout.html and index.html... and that's it<br>Declaring Jekyll minima tae render the site suitable for the markdown and html in the yaml config file</font>
 
 
 
