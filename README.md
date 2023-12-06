@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: gray;
+}
+</style>
+</head>
+</body>
+</html>
+
+
 # Much Ablog About Nothing
 ### Cultural ramblings fae a wer o' yore
 
