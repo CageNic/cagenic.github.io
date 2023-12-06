@@ -5,10 +5,7 @@
 body {
 background-color: gray;
 }
-</style>
-</head>
-</body>
-</html>
+
 
 
 # Much Ablog About Nothing
@@ -33,5 +30,10 @@ A collection of writings...
 
 <font size = 2> Note<br></font>
 <font size = "2"> The techy stuff of blog architecture. The homepage is a README.md, some layout.html and index.html... and that's it<br>Declaring Jekyll minima tae render the site suitable for the markdown and html in the yaml config file</font>
+
+</style>
+</head>
+</body>
+</html>
 
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
