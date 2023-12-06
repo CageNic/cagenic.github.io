@@ -18,7 +18,7 @@
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
 <font size = 2> Note<br></font>
-<font size = "2"> The techy stuff of blog architecture. The homepage is a README.md, some layout.html and index.html... and that's it<br>Declaring Jekyll minima tae render the site suitable for the markdown and html in the yaml config file</font>
+<font size = "2"> Note blah blah blah blah blah blah blah blah blah blah blah blah</font>
 
 
 
