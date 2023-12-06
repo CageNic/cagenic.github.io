@@ -1,14 +1,8 @@
-<html>
-<head>
-<style>
+
 body {
 background-color: white;
 }
 <img align="right" width="400" height="400" src="/images/excellent.jpg">
-</style>
-</head>
-</body>
-</html>
 
 
 
