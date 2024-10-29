@@ -12,6 +12,7 @@
 
 ### You can find my blogs [here](https://cagenic.github.io/blog)
 ### You can find my GitHub repositories [here](https://github.com/cagenic?tab=repositories)
+### You can find my Perl notes [here](https://musthavedata.wordpress.com)
 
 **Members of the team**  
 
