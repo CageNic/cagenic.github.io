@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
-<h1>Much Ablog About Nothing</h1>
+<i><h1>Much Ablog About Nothing</h1></i>
 <h2>Cultural ramblings fae a wer o' yore</h2>
 <p>A collection of writings... </p>
 <img align="right" width="400" height="400" src="/images/excellent.jpg">
