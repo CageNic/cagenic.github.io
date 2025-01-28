@@ -4,8 +4,8 @@
 </head>
 <body>
 <i><h1>ᛗᚢᚳᚻ ᚪᛒᛚᚩᚷ ᚪᛒᚩᚢᛏ ᚾᚩᚦᛁᛝ</h1></i>
-<h2>Cultural ramblings fae a wer o' yore</h2>
-<p>A collection of writings... </p>
+<i><h2>Cultural ramblings fae a wer o' yore</h2></i>
+<p>Gehæftnes of writunga... </p>
 <img align="right" width="400" height="400" src="/images/excellent.jpg">
 </body>
 </html>
