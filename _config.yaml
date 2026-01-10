@@ -1,5 +1,6 @@
-permalink: /blog/:year/:month/:day/:title
-excerpt_separator:
+# permalink: /blog/:year/:month/:day/:title
+permalink: /blog/title
+# excerpt_separator:
 theme: minima
 title: Much ablog about nothing
 
