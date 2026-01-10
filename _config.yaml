@@ -1,6 +1,6 @@
 # permalink: /blog/:year/:month/:day/:title
 # note that the title is taken from here for the url. If no entry here of title: then the url is taken from the markdown file name
-permalink: /blog/:title
+permalink: /blog/:title/
 # excerpt_separator:
 theme: minima
 title: Much ablog about nothing
