@@ -1,5 +1,5 @@
 ---
-title:  "this is a test"
+title:  "waffle"
 layout: post
 author: "Cultural Rambler"
 categories: history culture
