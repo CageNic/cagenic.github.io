@@ -58,11 +58,3 @@ permalink: /blog/
   }
 </script>
 
-<!-- Debugging: List years extracted from posts -->
-<ul>
-  {% assign years = site.posts | map: "date" | map: "year" | uniq | sort %}
-  {% for year in years %}
-    <li>{{ year }}</li>
-  {% endfor %}
-</ul>
-
