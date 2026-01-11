@@ -1,32 +1,23 @@
-body {
-  background-color: white;
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
-
-#yearDropdown {
-  margin-bottom: 20px;
-  padding: 10px;
-}
-
-.year-group {
-  margin-bottom: 20px;
-}
-
-.year-group h2 {
-  font-size: 1.5em;
-  margin-bottom: 10px;
-}
-
-.year-group ul {
+ul {
   list-style-type: none;
-  padding: 0;
+  padding-left: 0;
 }
 
-.year-group li {
-  margin-bottom: 5px;
+ul li {
+  margin: 1em 0;
 }
 
+ul li a {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
+ul li p {
+  font-size: 0.9em;
+  color: #555;
+}
