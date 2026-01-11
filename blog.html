@@ -8,7 +8,7 @@ Blog Posts
 
 <!-- Dropdown to filter posts by year -->
 <select id="yearDropdown" onchange="filterPostsByYear()">
-  <option value="">Select a Year</option>
+  <option value="" disabled selected>Select a Year</option>
   {% assign years = site.posts | map: "date" | map: "year" | uniq | sort %}
   {% for year in years %}
     <option value="{{ year }}">{{ year }}</option>
