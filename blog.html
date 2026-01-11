@@ -1,15 +1,16 @@
 ---
 layout: default
-title: "My Articles"
+title: Blog
 permalink: /blog/
 ---
 
-My Articles
+# Blog Posts
 
 <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <p><strong>Published on:</strong> {{ post.date | date: "%B %d, %Y" }}</p> <!-- Display the date -->
       <p>{{ post.excerpt }}</p> <!-- Optional: Show an excerpt of the post -->
     </li>
   {% endfor %}
