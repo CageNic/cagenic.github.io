@@ -15,11 +15,12 @@ permalink: /blog/
   {% endfor %}
 </select>
 
-<!-- List of posts grouped by year -->
+<!-- List of posts grouped by year, initially hidden -->
 <div id="posts-container">
-  {% assign posts_by_year = site.posts | group_by_exp:"post","post.date | date: '%Y'" %}
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  
   {% for year_group in posts_by_year %}
-    <div class="year-group" id="year-{{ year_group.name }}">
+    <div class="year-group" id="year-{{ year_group.name }}" class="year-posts" style="display:none;">
       <h2>{{ year_group.name }}</h2>
       <ul>
         {% for post in year_group.items %}
@@ -34,14 +35,14 @@ permalink: /blog/
 <script>
   function filterPostsByYear() {
     var selectedYear = document.getElementById("yearDropdown").value;
-    
-    // Hide all posts
+
+    // Hide all year groups initially
     var allPosts = document.querySelectorAll(".year-group");
     allPosts.forEach(function(postGroup) {
       postGroup.style.display = "none";
     });
 
-    // Show posts for the selected year
+    // Show the posts for the selected year
     if (selectedYear) {
       var selectedGroup = document.getElementById("year-" + selectedYear);
       if (selectedGroup) {
