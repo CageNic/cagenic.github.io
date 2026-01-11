@@ -6,14 +6,26 @@ permalink: /blog/
 
 Blog Posts
 
-<!-- Header Image -->
-<img src="{{ '/images/Groundskeeper.jpg' | relative_url }}" alt="Blog Header Image" class="blog-header-img" />
+<!-- Container to align the list and image side by side -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      <p><strong>Published on:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
-    </li>
-  {% endfor %}
-</ul>
+  <!-- Blog list on the left -->
+  <div style="width: 70%;">
+
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <p><strong>Published on:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+
+  <!-- Image on the right -->
+  <div style="width: 28%; padding-left: 20px;">
+    <img src="{{ '/images/blog-header.jpg' | relative_url }}" alt="Blog Header Image" style="width: 100%; height: auto;" />
+  </div>
+
+</div>
