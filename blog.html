@@ -4,13 +4,16 @@ title: Blog
 permalink: /blog/
 ---
 
-Blog Posts
+# Blog Posts
+
+<!-- Header Image -->
+<img src="{{ '/images/Groundskeeper.jpg' | relative_url }}" alt="Blog Header Image" class="blog-header-img" />
 
 <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      <p><strong>Published on:</strong> {{ post.date | date: "%B %d, %Y" }}</p> <!-- Display the date -->
+      <p><strong>Published on:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
     </li>
   {% endfor %}
 </ul>
