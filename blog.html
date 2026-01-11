@@ -6,54 +6,11 @@ permalink: /blog/
 
 # Blog Posts
 
-<!-- Dropdown to filter posts by year -->
-<select id="yearDropdown" onchange="filterPostsByYear()">
-  <option value="" disabled selected>Select a Year</option>
-  {% assign years = site.posts | map: "date" | map: "year" | uniq | sort %}
-  {% for year in years %}
-    <option value="{{ year }}">{{ year }}</option>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p> <!-- Optional: Show an excerpt of the post -->
+    </li>
   {% endfor %}
-</select>
-
-<!-- List of posts grouped by year -->
-<div id="posts-container">
-  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-  
-  {% for year_group in posts_by_year %}
-    <div class="year-group" id="year-{{ year_group.name }}" class="year-posts" style="display:none;">
-      <h2>{{ year_group.name }}</h2>
-      <ul>
-        {% for post in year_group.items %}
-          <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-  {% endfor %}
-</div>
-
-<!-- JavaScript to filter posts by year -->
-<script>
-  function filterPostsByYear() {
-    var selectedYear = document.getElementById("yearDropdown").value;
-
-    // Hide all year groups initially
-    var allPosts = document.querySelectorAll(".year-group");
-    allPosts.forEach(function(postGroup) {
-      postGroup.style.display = "none";
-    });
-
-    // Show the posts for the selected year
-    if (selectedYear) {
-      var selectedGroup = document.getElementById("year-" + selectedYear);
-      if (selectedGroup) {
-        selectedGroup.style.display = "block";
-      }
-    } else {
-      // If no year is selected, show all posts
-      var allGroups = document.querySelectorAll(".year-group");
-      allGroups.forEach(function(group) {
-        group.style.display = "block";  // Show all groups
-      });
-    }
-  }
-</script>
+</ul>
