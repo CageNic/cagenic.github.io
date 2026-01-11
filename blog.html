@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Blog Posts
+# Blog Posts
 
 <!-- Dropdown to filter posts by year -->
 <select id="yearDropdown" onchange="filterPostsByYear()">
@@ -15,7 +15,7 @@ Blog Posts
   {% endfor %}
 </select>
 
-<!-- List of posts grouped by year, initially hidden -->
+<!-- List of posts grouped by year -->
 <div id="posts-container">
   {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   
