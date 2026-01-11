@@ -50,8 +50,9 @@ Blog Posts
       }
     } else {
       // If no year is selected, show all posts
-      allPosts.forEach(function(postGroup) {
-        postGroup.style.display = "block";
+      var allGroups = document.querySelectorAll(".year-group");
+      allGroups.forEach(function(group) {
+        group.style.display = "block";  // Show all groups
       });
     }
   }
