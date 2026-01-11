@@ -6,3 +6,27 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+#yearDropdown {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.year-group {
+  margin-bottom: 20px;
+}
+
+.year-group h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.year-group ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.year-group li {
+  margin-bottom: 5px;
+}
+
